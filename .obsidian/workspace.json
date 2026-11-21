@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "概念解释/云服务器知识手册.md",
+                "file": "概念解释/AI发展知识手册.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "云服务器知识手册"
+              "title": "AI发展知识手册"
             }
           }
         ]
@@ -187,6 +187,8 @@
   },
   "active": "8ddfae7b3c54d242",
   "lastOpenFiles": [
+    "离散数学/第06章-函数.md",
+    "概念解释/网址与网络基础手册.md",
     "00-学习总览.md",
     "概念解释/云服务器知识手册.md",
     "正大杯/第十三届正大杯本科知识赛官方模拟题（85题·含答案）.md",
